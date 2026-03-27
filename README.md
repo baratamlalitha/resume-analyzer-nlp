@@ -29,4 +29,4 @@ An end-to-end resume analyzer that extracts text from resumes, performs basic NL
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR-USERNAME/resume-analyzer-nlp.git
+git clone https://github.com/baratamlalitha/resume-analyzer-nlp.git
